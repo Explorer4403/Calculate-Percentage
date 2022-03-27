@@ -1,2 +1,2 @@
 # Calculate-Percentage
-how to calculate percentage in python
+ 1).Python Program to Calculate Total Marks Percentage and Grade of a Student.
